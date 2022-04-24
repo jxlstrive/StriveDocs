@@ -1,2 +1,3 @@
 # striveDocs
-document
+
+## calculate
